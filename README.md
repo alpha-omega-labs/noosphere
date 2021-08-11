@@ -1,0 +1,2 @@
+# noosphere
+Early draft
